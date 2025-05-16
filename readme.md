@@ -16,6 +16,12 @@
 
 强化学习课程第一次作业：<https://github.com/CanCanLogo/Brilliant_RL_part1>
 
+强化学习课程第二次作业：<https://github.com/CanCanLogo/Brilliant_RL_part2>
+
+强化学习课程第三次作业：<https://github.com/CanCanLogo/Brilliant_RL_part3>
+
+强化学习课程第四次作业：<https://github.com/CanCanLogo/Brilliant_RL_Part4>
+
 ## 如何入门计算机视觉
 
 练习生在大三上的第一个CV大作业：<https://github.com/CanCanLogo/Brilliant_CV_laplace>
