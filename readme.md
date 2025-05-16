@@ -12,6 +12,7 @@
 
 # Link
 
+![如何入门强化学习，练习生的第一个大作业](https://github.com/CanCanLogo/Brilliant_RL_football)
 
 
 # Spare Word
