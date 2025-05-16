@@ -24,6 +24,11 @@
 
 练习生在大三上的第三个CV大作业：[<https://github.com/CanCanLogo/Brilliant_CV_KCF>](https://github.com/CanCanLogo/Brilliant_CV_KCF)
 
+
+# Environment
+
+苯人在整个本科期间只用了一个虚拟环境，详见 `requirements.txt`
+
 # Name Space
 
 - Awesome prefix 表示从需求到实现全原创的repo
