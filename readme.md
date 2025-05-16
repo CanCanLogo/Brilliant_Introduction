@@ -7,12 +7,13 @@
 ![两年半练习生](./images/NiGanMa.jpg)
 
 
-# Name Space
-
-- Awesome prefix 表示从需求到实现全原创的repo
-- Brilliant prefix 表示课程作业
 
 # Link
 
 如何入门强化学习，练习生在大二下的第一个大作业：<https://github.com/CanCanLogo/Brilliant_RL_football>
 
+
+# Name Space
+
+- Awesome prefix 表示从需求到实现全原创的repo
+- Brilliant prefix 表示课程作业
