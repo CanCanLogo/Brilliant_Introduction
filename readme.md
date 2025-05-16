@@ -30,6 +30,14 @@
 
 练习生在大三上的第三个CV大作业：[<https://github.com/CanCanLogo/Brilliant_CV_KCF>](https://github.com/CanCanLogo/Brilliant_CV_KCF)
 
+## 如何入门自然语言处理
+
+练习生在大三上的第一个NLP大作业：<https://github.com/CanCanLogo/Brilliant_NLP_BiClassification>
+
+练习生在大三上的第二个NLP大作业：<https://github.com/CanCanLogo/Brilliant_NLP_Transformer_Classification>
+
+练习生在大三上的第三个NLP大作业：<https://github.com/CanCanLogo/Brilliant_NLP_GenModel>
+
 
 # Environment
 
