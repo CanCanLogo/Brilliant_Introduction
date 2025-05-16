@@ -12,5 +12,5 @@
 
 # Link
 
-如何入门强化学习，练习生的第一个大作业：<https://github.com/CanCanLogo/Brilliant_RL_football>
+如何入门强化学习，练习生在大二下的第一个大作业：<https://github.com/CanCanLogo/Brilliant_RL_football>
 
