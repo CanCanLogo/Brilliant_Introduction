@@ -14,32 +14,3 @@
 
 如何入门强化学习，练习生的第一个大作业：<https://github.com/CanCanLogo/Brilliant_RL_football>
 
-
-# Spare Word
-
-- **A** - Awesome（极好的）
-- **B** - Brilliant（卓越的）
-- **C** - Creative（有创造力的）
-- **D** - Dazzling（耀眼的）
-- **E** - Excellent（优秀的）
-- **F** - Fantastic（美妙的）
-- **G** - Glorious（辉煌的）
-- **H** - Heroic（英勇的）
-- **I** - Incredible（难以置信的）
-- **J** - Joyful（充满喜悦的）
-- **K** - Kindred（志同道合的）
-- **L** - Luminous（明亮的）
-- **M** - Marvelous（非凡的）
-- **N** - Noble（高尚的）
-- **O** - Outstanding（出色的）
-- **P** - Perfect（完美的）
-- **Q** - Quality（优质的）
-- **R** - Remarkable（非凡的）
-- **S** - Superb（极佳的）
-- **T** - Terrific（极好的）
-- **U** - Unreal（超乎想象的）
-- **V** - Valiant（勇敢的）
-- **W** - Wonderful（精彩的）
-- **X** - Xenial（友善的）
-- **Y** - Youthful（朝气蓬勃的）
-- **Z** - Zesty（充满活力的）
