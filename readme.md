@@ -42,6 +42,10 @@
 
 练习生在大三上的第三个NLP大作业：<https://github.com/CanCanLogo/Brilliant_NLP_GenModel>
 
+练习生在大三下的第一个NLP大作业：<https://github.com/CanCanLogo/Brilliant_BiLSTM_Classification>
+
+练习生在大三下的第二个NLP大作业：<https://github.com/CanCanLogo/Brilliant_NLP_SFTData_Filter>
+
 
 # Environment
 
