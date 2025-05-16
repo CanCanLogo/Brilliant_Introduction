@@ -10,6 +10,10 @@
 
 # Link
 
+## 如何入门机器学习
+
+练习生第一次开始做机器学习项目：<https://github.com/CanCanLogo/Brilliant_ML_Introductory>
+
 ## 如何入门强化学习
 
 练习生在大二下的第一个大作业，两天速通代码+论文：<https://github.com/CanCanLogo/Brilliant_RL_football>
