@@ -10,7 +10,14 @@
 
 # Link
 
+## 强化学习
+
 如何入门强化学习，练习生在大二下的第一个大作业：<https://github.com/CanCanLogo/Brilliant_RL_football>
+
+## 计算机视觉
+
+如何入门计算机视觉，练习生在大三上的第一个CV大作业：<https://github.com/CanCanLogo/Brilliant_CV_laplace>
+
 
 
 # Name Space
