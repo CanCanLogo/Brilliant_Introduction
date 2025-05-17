@@ -35,6 +35,10 @@
 
 练习生做一个简单的图像分类项目：<https://github.com/CanCanLogo/Brilliant_DL_ImageClassification>
 
+练习生做一个简单的yolo目标检测项目：<https://github.com/CanCanLogo/Brilliant_DL_yolo>
+
+练习生做一个简单的GAN图像生成项目：<https://github.com/CanCanLogo/Brilliant_DL_GAN>
+
 ## 如何入门自然语言处理
 
 练习生在大三上的第一个NLP大作业：<https://github.com/CanCanLogo/Brilliant_NLP_BiClassification>
