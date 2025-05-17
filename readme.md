@@ -7,7 +7,6 @@
 ![两年半练习生](./images/NiGanMa.jpg)
 
 
-
 # Link
 
 ## 如何入门机器学习
@@ -34,6 +33,8 @@
 
 练习生在大三上的第三个CV大作业：[<https://github.com/CanCanLogo/Brilliant_CV_KCF>](https://github.com/CanCanLogo/Brilliant_CV_KCF)
 
+练习生做一个简单的图像分类项目：<https://github.com/CanCanLogo/Brilliant_DL_ImageClassification>
+
 ## 如何入门自然语言处理
 
 练习生在大三上的第一个NLP大作业：<https://github.com/CanCanLogo/Brilliant_NLP_BiClassification>
@@ -45,6 +46,8 @@
 练习生在大三下的第一个NLP大作业：<https://github.com/CanCanLogo/Brilliant_BiLSTM_Classification>
 
 练习生在大三下的第二个NLP大作业：<https://github.com/CanCanLogo/Brilliant_NLP_SFTData_Filter>
+
+练习生做一个BERT微调关系抽取项目：<https://github.com/CanCanLogo/Brilliant_DL_R_Bert>
 
 
 # Environment
